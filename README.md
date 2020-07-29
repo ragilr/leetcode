@@ -8,3 +8,4 @@ solutions on leetcode
 |shuffle-the-array|https://leetcode.com/problems/shuffle-the-array|
 |number-of-good-pairs|https://leetcode.com/problems/number-of-good-pairs|
 |kids-with-the-greatest-number-of-candies|https://leetcode.com/problems/kids-with-the-greatest-number-of-candies|
+|defanging-an-ip-address|https://leetcode.com/problems/defanging-an-ip-address|
