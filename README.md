@@ -11,3 +11,4 @@ solutions on leetcode
 |6|defanging-an-ip-address|https://leetcode.com/problems/defanging-an-ip-address|
 |7|how-many-numbers-are-smaller-than-the-current-number|https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number|
 |8|decompress-run-length-encoded-list|https://leetcode.com/problems/decompress-run-length-encoded-list|
+|9|create-target-array-in-the-given-order|https://leetcode.com/problems/create-target-array-in-the-given-order/submissions/|
