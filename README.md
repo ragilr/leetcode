@@ -14,3 +14,4 @@ solutions on leetcode
 |9|create-target-array-in-the-given-order|https://leetcode.com/problems/create-target-array-in-the-given-order|
 |10|xor-operation-in-an-array|https://leetcode.com/problems/xor-operation-in-an-array|
 |11|sum-of-all-odd-length-subarrays|https://leetcode.com/problems/sum-of-all-odd-length-subarrays|
+|12|richest-customer-wealth|https://leetcode.com/problems/richest-customer-wealth|
