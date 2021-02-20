@@ -18,3 +18,4 @@ solutions on leetcode
 |13|design-an-ordered-stream|https://leetcode.com/problems/design-an-ordered-stream|
 |14|sort-the-matrix-diagonally|https://leetcode.com/problems/sort-the-matrix-diagonally|
 |15|find-the-highest-altitude|https://leetcode.com/problems/find-the-highest-altitude|
+|16|count-good-triplets|https://leetcode.com/problems/count-good-triplets|
