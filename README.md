@@ -21,4 +21,4 @@ solutions on leetcode
 |16|count-good-triplets|https://leetcode.com/problems/count-good-triplets|
 |17|minimum-time-visiting-all-points|https://leetcode.com/problems/minimum-time-visiting-all-points|
 |18|cells-with-odd-values-in-a-matrix|https://leetcode.com/problems/cells-with-odd-values-in-a-matrix|
-|19|https://leetcode.com/problems/matrix-diagonal-sum|matrix-diagonal-sum|
+|19|matrix-diagonal-sum|https://leetcode.com/problems/matrix-diagonal-sum|
