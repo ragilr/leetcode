@@ -22,3 +22,4 @@ solutions on leetcode
 |17|minimum-time-visiting-all-points|https://leetcode.com/problems/minimum-time-visiting-all-points|
 |18|cells-with-odd-values-in-a-matrix|https://leetcode.com/problems/cells-with-odd-values-in-a-matrix|
 |19|matrix-diagonal-sum|https://leetcode.com/problems/matrix-diagonal-sum|
+|20|maximum-product-of-two-elements-in-an-array|https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array|
