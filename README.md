@@ -19,3 +19,4 @@ solutions on leetcode
 |14|sort-the-matrix-diagonally|https://leetcode.com/problems/sort-the-matrix-diagonally|
 |15|find-the-highest-altitude|https://leetcode.com/problems/find-the-highest-altitude|
 |16|count-good-triplets|https://leetcode.com/problems/count-good-triplets|
+|17|minimum-time-visiting-all-points|https://leetcode.com/problems/minimum-time-visiting-all-points|
