@@ -20,3 +20,4 @@ solutions on leetcode
 |15|find-the-highest-altitude|https://leetcode.com/problems/find-the-highest-altitude|
 |16|count-good-triplets|https://leetcode.com/problems/count-good-triplets|
 |17|minimum-time-visiting-all-points|https://leetcode.com/problems/minimum-time-visiting-all-points|
+|18|cells-with-odd-values-in-a-matrix|https://leetcode.com/problems/cells-with-odd-values-in-a-matrix|
