@@ -27,3 +27,4 @@ solutions on leetcode
 |22|sort-array-by-parity|https://leetcode.com/problems/sort-array-by-parity|
 |23|maximum-number-of-balls-in-a-box|https://leetcode.com/problems/maximum-number-of-balls-in-a-box|
 |24|array-partition-i|https://leetcode.com/problems/array-partition-i|
+|25|make-two-arrays-equal-by-reversing-sub-arrays|https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays|
