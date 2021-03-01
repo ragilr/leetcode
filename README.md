@@ -30,3 +30,4 @@ solutions on leetcode
 |25|make-two-arrays-equal-by-reversing-sub-arrays|https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays|
 |26|lcc-march2021/distribute-candies|https://leetcode.com/problems/distribute-candies|
 |27|count-items-matching-a-rule|https://leetcode.com/problems/count-items-matching-a-rule|
+|28|goal-parser-interpretation|https://leetcode.com/problems/goal-parser-interpretation|
