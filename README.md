@@ -29,3 +29,4 @@ solutions on leetcode
 |24|array-partition-i|https://leetcode.com/problems/array-partition-i|
 |25|make-two-arrays-equal-by-reversing-sub-arrays|https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays|
 |26|lcc-march2021/distribute-candies|https://leetcode.com/problems/distribute-candies|
+|27|count-items-matching-a-rule|https://leetcode.com/problems/count-items-matching-a-rule|
