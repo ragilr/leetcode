@@ -28,4 +28,4 @@ solutions on leetcode
 |23|maximum-number-of-balls-in-a-box|https://leetcode.com/problems/maximum-number-of-balls-in-a-box|
 |24|array-partition-i|https://leetcode.com/problems/array-partition-i|
 |25|make-two-arrays-equal-by-reversing-sub-arrays|https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays|
-|26-lcc|distribute-candies|https://leetcode.com/problems/distribute-candies|
+|26|lcc-march2021/distribute-candies|https://leetcode.com/problems/distribute-candies|
