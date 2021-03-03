@@ -31,4 +31,4 @@ solutions on leetcode
 |26|lcc-march2021/distribute-candies|https://leetcode.com/problems/distribute-candies|
 |27|count-items-matching-a-rule|https://leetcode.com/problems/count-items-matching-a-rule|
 |28|goal-parser-interpretation|https://leetcode.com/problems/goal-parser-interpretation|
-|29|set-mismatch|https://leetcode.com/problems/set-mismatch|
+|29|lcc-march2021/set-mismatch|https://leetcode.com/problems/set-mismatch|
