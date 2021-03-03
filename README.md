@@ -32,3 +32,4 @@ solutions on leetcode
 |27|count-items-matching-a-rule|https://leetcode.com/problems/count-items-matching-a-rule|
 |28|goal-parser-interpretation|https://leetcode.com/problems/goal-parser-interpretation|
 |29|lcc-march2021/set-mismatch|https://leetcode.com/problems/set-mismatch|
+|30|squares-of-a-sorted-array|https://leetcode.com/problems/squares-of-a-sorted-array|
