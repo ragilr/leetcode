@@ -33,3 +33,4 @@ solutions on leetcode
 |28|goal-parser-interpretation|https://leetcode.com/problems/goal-parser-interpretation|
 |29|lcc-march2021/set-mismatch|https://leetcode.com/problems/set-mismatch|
 |30|squares-of-a-sorted-array|https://leetcode.com/problems/squares-of-a-sorted-array|
+|31|lcc-march2021/intersection-of-two-linked-lists|https://leetcode.com/problems/intersection-of-two-linked-lists|
