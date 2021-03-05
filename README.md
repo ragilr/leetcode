@@ -34,3 +34,5 @@ solutions on leetcode
 |29|lcc-march2021/set-mismatch|https://leetcode.com/problems/set-mismatch|
 |30|squares-of-a-sorted-array|https://leetcode.com/problems/squares-of-a-sorted-array|
 |31|lcc-march2021/intersection-of-two-linked-lists|https://leetcode.com/problems/intersection-of-two-linked-lists|
+|32|lcc-march2021/missing-number|https://leetcode.com/problems/missing-number|
+|33|lcc-march2021/average-of-levels-in-binary-tree|https://leetcode.com/problems/average-of-levels-in-binary-tree|
