@@ -36,3 +36,4 @@ solutions on leetcode
 |31|lcc-march2021/intersection-of-two-linked-lists|https://leetcode.com/problems/intersection-of-two-linked-lists|
 |32|lcc-march2021/missing-number|https://leetcode.com/problems/missing-number|
 |33|lcc-march2021/average-of-levels-in-binary-tree|https://leetcode.com/problems/average-of-levels-in-binary-tree|
+|34|lcc-march2021/short-encoding-of-words|https://leetcode.com/problems/short-encoding-of-words|
