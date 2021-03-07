@@ -40,3 +40,4 @@ solutions on leetcode
 |35|lcc-march2021/design-hashmap|https://leetcode.com/problems/design-hashmap|
 |36|split-a-string-in-balanced-strings|https://leetcode.com/problems/split-a-string-in-balanced-strings|
 |37|check-if-two-string-arrays-are-equivalent|https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent|
+|38|maximum-nesting-depth-of-the-parentheses|https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses|
