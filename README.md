@@ -38,3 +38,4 @@ solutions on leetcode
 |33|lcc-march2021/average-of-levels-in-binary-tree|https://leetcode.com/problems/average-of-levels-in-binary-tree|
 |34|lcc-march2021/short-encoding-of-words|https://leetcode.com/problems/short-encoding-of-words|
 |35|lcc-march2021/design-hashmap|https://leetcode.com/problems/design-hashmap|
+|36|split-a-string-in-balanced-strings|https://leetcode.com/problems/split-a-string-in-balanced-strings|
