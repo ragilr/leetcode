@@ -42,3 +42,4 @@ solutions on leetcode
 |37|check-if-two-string-arrays-are-equivalent|https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent|
 |38|maximum-nesting-depth-of-the-parentheses|https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses|
 |39|count-the-number-of-consistent-strings|https://leetcode.com/problems/count-the-number-of-consistent-strings|
+|40|max-consecutive-ones|https://leetcode.com/problems/max-consecutive-ones|
