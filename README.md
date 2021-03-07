@@ -37,3 +37,4 @@ solutions on leetcode
 |32|lcc-march2021/missing-number|https://leetcode.com/problems/missing-number|
 |33|lcc-march2021/average-of-levels-in-binary-tree|https://leetcode.com/problems/average-of-levels-in-binary-tree|
 |34|lcc-march2021/short-encoding-of-words|https://leetcode.com/problems/short-encoding-of-words|
+|35|lcc-march2021/design-hashmap|https://leetcode.com/problems/design-hashmap|
