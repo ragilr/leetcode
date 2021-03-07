@@ -39,3 +39,4 @@ solutions on leetcode
 |34|lcc-march2021/short-encoding-of-words|https://leetcode.com/problems/short-encoding-of-words|
 |35|lcc-march2021/design-hashmap|https://leetcode.com/problems/design-hashmap|
 |36|split-a-string-in-balanced-strings|https://leetcode.com/problems/split-a-string-in-balanced-strings|
+|37|check-if-two-string-arrays-are-equivalent|https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent|
