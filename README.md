@@ -41,3 +41,4 @@ solutions on leetcode
 |36|split-a-string-in-balanced-strings|https://leetcode.com/problems/split-a-string-in-balanced-strings|
 |37|check-if-two-string-arrays-are-equivalent|https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent|
 |38|maximum-nesting-depth-of-the-parentheses|https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses|
+|39|count-the-number-of-consistent-strings|https://leetcode.com/problems/count-the-number-of-consistent-strings|
