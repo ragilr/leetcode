@@ -43,3 +43,4 @@ solutions on leetcode
 |38|maximum-nesting-depth-of-the-parentheses|https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses|
 |39|count-the-number-of-consistent-strings|https://leetcode.com/problems/count-the-number-of-consistent-strings|
 |40|max-consecutive-ones|https://leetcode.com/problems/max-consecutive-ones|
+|41|lcc-may2021/max-area-of-island|https://leetcode.com/problems/max-area-of-island|
