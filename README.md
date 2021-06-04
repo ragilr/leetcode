@@ -44,3 +44,4 @@ solutions on leetcode
 |39|count-the-number-of-consistent-strings|https://leetcode.com/problems/count-the-number-of-consistent-strings|
 |40|max-consecutive-ones|https://leetcode.com/problems/max-consecutive-ones|
 |41|lcc-may2021/max-area-of-island|https://leetcode.com/problems/max-area-of-island|
+|42|lcc-may2021/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts|https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts|
