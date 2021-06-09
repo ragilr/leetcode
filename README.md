@@ -47,4 +47,5 @@ solutions on leetcode
 |42|lcc-may2021/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts|https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts|
 |43|lcc-june-2021/open-the-lock|https://leetcode.com/problems/open-the-lock|
 |44|lcc-june-2021/interleaving-string|https://leetcode.com/problems/interleaving-string|
-|44|lcc-june-2021/min-cost-climbing-stairs|https://leetcode.com/problems/min-cost-climbing-stairs|
+|45|lcc-june-2021/min-cost-climbing-stairs|https://leetcode.com/problems/min-cost-climbing-stairs|
+|46|count-negative-numbers-in-a-sorted-matrix|https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix|
