@@ -49,3 +49,4 @@ solutions on leetcode
 |44|lcc-june-2021/interleaving-string|https://leetcode.com/problems/interleaving-string|
 |45|lcc-june-2021/min-cost-climbing-stairs|https://leetcode.com/problems/min-cost-climbing-stairs|
 |46|count-negative-numbers-in-a-sorted-matrix|https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix|
+|47|flipping-an-image|https://leetcode.com/problems/flipping-an-image|
