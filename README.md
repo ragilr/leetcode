@@ -51,3 +51,4 @@ solutions on leetcode
 |46|count-negative-numbers-in-a-sorted-matrix|https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix|
 |47|flipping-an-image|https://leetcode.com/problems/flipping-an-image|
 |48|move-zeroes|https://leetcode.com/problems/move-zeroes|
+|49|two-sum-ii-input-array-is-sorted|https://leetcode.com/problems/two-sum-ii-input-array-is-sorted|
