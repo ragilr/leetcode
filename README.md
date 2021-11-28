@@ -53,3 +53,4 @@ solutions on leetcode
 |48|move-zeroes|https://leetcode.com/problems/move-zeroes|
 |49|two-sum-ii-input-array-is-sorted|https://leetcode.com/problems/two-sum-ii-input-array-is-sorted|
 |50|3sum|https://leetcode.com/problems/3sum|
+|51|search-in-rotated-sorted-array|https://leetcode.com/problems/search-in-rotated-sorted-array|
