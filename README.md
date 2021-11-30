@@ -56,3 +56,4 @@ solutions on leetcode
 |51|search-in-rotated-sorted-array|https://leetcode.com/problems/search-in-rotated-sorted-array|
 |52|find-first-and-last-position-of-element-in-sorted-array|https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array|
 |53|first-bad-version|https://leetcode.com/problems/first-bad-version|
+|54|search-insert-position|https://leetcode.com/problems/search-insert-position|
