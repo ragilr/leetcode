@@ -59,3 +59,4 @@ solutions on leetcode
 |54|search-insert-position|https://leetcode.com/problems/search-insert-position|
 |55|reverse-string|https://leetcode.com/problems/reverse-string|
 |56|valid-sudoku|https://leetcode.com/problems/valid-sudoku|
+|57|merge-intervals|https://leetcode.com/problems/merge-intervals|
