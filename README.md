@@ -62,3 +62,4 @@ solutions on leetcode
 |57|merge-intervals|https://leetcode.com/problems/merge-intervals|
 |58|rotate-image|https://leetcode.com/problems/rotate-image|
 |59|longest-consecutive-sequence|https://leetcode.com/problems/longest-consecutive-sequence|
+|60|set-matrix-zeroes|https://leetcode.com/problems/set-matrix-zeroes|
