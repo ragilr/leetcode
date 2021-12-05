@@ -60,3 +60,5 @@ solutions on leetcode
 |55|reverse-string|https://leetcode.com/problems/reverse-string|
 |56|valid-sudoku|https://leetcode.com/problems/valid-sudoku|
 |57|merge-intervals|https://leetcode.com/problems/merge-intervals|
+|58|rotate-image|https://leetcode.com/problems/rotate-image|
+|59|longest-consecutive-sequence|https://leetcode.com/problems/longest-consecutive-sequence|
