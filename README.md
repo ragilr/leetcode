@@ -64,3 +64,4 @@ solutions on leetcode
 |59|longest-consecutive-sequence|https://leetcode.com/problems/longest-consecutive-sequence|
 |60|set-matrix-zeroes|https://leetcode.com/problems/set-matrix-zeroes|
 |61|spiral-matrix|https://leetcode.com/problems/spiral-matrix|
+|62|find-peak-element|https://leetcode.com/problems/find-peak-element|
