@@ -67,3 +67,4 @@ solutions on leetcode
 |62|find-peak-element|https://leetcode.com/problems/find-peak-element|
 |63|product-of-array-except-self|https://leetcode.com/problems/product-of-array-except-self|
 |64|find-the-duplicate-number|https://leetcode.com/problems/find-the-duplicate-number|
+|65|game-of-life|https://leetcode.com/problems/game-of-life|
