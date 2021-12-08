@@ -69,3 +69,4 @@ solutions on leetcode
 |64|find-the-duplicate-number|https://leetcode.com/problems/find-the-duplicate-number|
 |65|game-of-life|https://leetcode.com/problems/game-of-life|
 |66|design-tic-tac-toe|https://leetcode.com/problems/design-tic-tac-toe|
+|67|insert-delete-getrandom-o1|https://leetcode.com/problems/insert-delete-getrandom-o1|
