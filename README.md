@@ -68,3 +68,4 @@ solutions on leetcode
 |63|product-of-array-except-self|https://leetcode.com/problems/product-of-array-except-self|
 |64|find-the-duplicate-number|https://leetcode.com/problems/find-the-duplicate-number|
 |65|game-of-life|https://leetcode.com/problems/game-of-life|
+|66|design-tic-tac-toe|https://leetcode.com/problems/design-tic-tac-toe|
