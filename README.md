@@ -71,3 +71,4 @@ solutions on leetcode
 |66|design-tic-tac-toe|https://leetcode.com/problems/design-tic-tac-toe|
 |67|insert-delete-getrandom-o1|https://leetcode.com/problems/insert-delete-getrandom-o1|
 |68|4sum|https://leetcode.com/problems/4sum|
+|69|first-missing-positive|https://leetcode.com/problems/first-missing-positive|
