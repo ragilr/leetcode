@@ -72,3 +72,4 @@ solutions on leetcode
 |67|insert-delete-getrandom-o1|https://leetcode.com/problems/insert-delete-getrandom-o1|
 |68|4sum|https://leetcode.com/problems/4sum|
 |69|first-missing-positive|https://leetcode.com/problems/first-missing-positive|
+|70|flatten-2d-vector|https://leetcode.com/problems/flatten-2d-vector|
