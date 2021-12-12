@@ -73,3 +73,4 @@ solutions on leetcode
 |68|4sum|https://leetcode.com/problems/4sum|
 |69|first-missing-positive|https://leetcode.com/problems/first-missing-positive|
 |70|flatten-2d-vector|https://leetcode.com/problems/flatten-2d-vector|
+|71|4sum-ii|https://leetcode.com/problems/4sum-ii|
