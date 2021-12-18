@@ -77,3 +77,4 @@ solutions on leetcode
 |72|excel-sheet-column-number|https://leetcode.com/problems/excel-sheet-column-number|
 |73|intersection-of-two-arrays-ii|https://leetcode.com/problems/intersection-of-two-arrays-ii|
 |74|sort-colors|https://leetcode.com/problems/sort-colors|
+|75|remove-duplicates-from-sorted-array|https://leetcode.com/problems/remove-duplicates-from-sorted-array|
