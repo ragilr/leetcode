@@ -79,3 +79,4 @@ solutions on leetcode
 |74|sort-colors|https://leetcode.com/problems/sort-colors|
 |75|remove-duplicates-from-sorted-array|https://leetcode.com/problems/remove-duplicates-from-sorted-array|
 |76|happy-number|https://leetcode.com/problems/happy-number|
+|77|roman-to-integer|https://leetcode.com/problems/roman-to-integer|
