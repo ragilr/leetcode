@@ -75,3 +75,4 @@ solutions on leetcode
 |70|flatten-2d-vector|https://leetcode.com/problems/flatten-2d-vector|
 |71|4sum-ii|https://leetcode.com/problems/4sum-ii|
 |72|excel-sheet-column-number|https://leetcode.com/problems/excel-sheet-column-number|
+|73|intersection-of-two-arrays-ii|https://leetcode.com/problems/intersection-of-two-arrays-ii|
