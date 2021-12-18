@@ -78,3 +78,4 @@ solutions on leetcode
 |73|intersection-of-two-arrays-ii|https://leetcode.com/problems/intersection-of-two-arrays-ii|
 |74|sort-colors|https://leetcode.com/problems/sort-colors|
 |75|remove-duplicates-from-sorted-array|https://leetcode.com/problems/remove-duplicates-from-sorted-array|
+|76|happy-number|https://leetcode.com/problems/happy-number|
