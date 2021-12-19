@@ -82,3 +82,4 @@ solutions on leetcode
 |77|roman-to-integer|https://leetcode.com/problems/roman-to-integer|
 |78|group-anagrams|https://leetcode.com/problems/group-anagrams|
 |79|valid-anagram|https://leetcode.com/problems/valid-anagram|
+|80|contains-duplicate|https://leetcode.com/problems/contains-duplicate|
