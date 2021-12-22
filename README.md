@@ -83,3 +83,4 @@ solutions on leetcode
 |78|group-anagrams|https://leetcode.com/problems/group-anagrams|
 |79|valid-anagram|https://leetcode.com/problems/valid-anagram|
 |80|contains-duplicate|https://leetcode.com/problems/contains-duplicate|
+|81|substrings-of-size-three-with-distinct-characters|https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters|
