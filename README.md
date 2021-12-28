@@ -84,3 +84,4 @@ solutions on leetcode
 |79|valid-anagram|https://leetcode.com/problems/valid-anagram|
 |80|contains-duplicate|https://leetcode.com/problems/contains-duplicate|
 |81|substrings-of-size-three-with-distinct-characters|https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters|
+|82|number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold|https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold|
