@@ -86,3 +86,4 @@ solutions on leetcode
 |81|substrings-of-size-three-with-distinct-characters|https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters|
 |82|number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold|https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold|
 |83|distinct-numbers-in-each-subarray|https://leetcode.com/problems/distinct-numbers-in-each-subarray|
+|84|number-of-unique-flavors-after-sharing-k-candies|https://leetcode.com/problems/number-of-unique-flavors-after-sharing-k-candies|
