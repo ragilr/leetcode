@@ -87,3 +87,4 @@ solutions on leetcode
 |82|number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold|https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold|
 |83|distinct-numbers-in-each-subarray|https://leetcode.com/problems/distinct-numbers-in-each-subarray|
 |84|number-of-unique-flavors-after-sharing-k-candies|https://leetcode.com/problems/number-of-unique-flavors-after-sharing-k-candies|
+|85|max-consecutive-ones-iii|https://leetcode.com/problems/max-consecutive-ones-iii|
