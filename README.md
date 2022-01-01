@@ -88,3 +88,4 @@ solutions on leetcode
 |83|distinct-numbers-in-each-subarray|https://leetcode.com/problems/distinct-numbers-in-each-subarray|
 |84|number-of-unique-flavors-after-sharing-k-candies|https://leetcode.com/problems/number-of-unique-flavors-after-sharing-k-candies|
 |85|max-consecutive-ones-iii|https://leetcode.com/problems/max-consecutive-ones-iii|
+|86|number-of-substrings-containing-all-three-characters|https://leetcode.com/problems/number-of-substrings-containing-all-three-characters|
