@@ -90,3 +90,4 @@ solutions on leetcode
 |85|max-consecutive-ones-iii|https://leetcode.com/problems/max-consecutive-ones-iii|
 |86|number-of-substrings-containing-all-three-characters|https://leetcode.com/problems/number-of-substrings-containing-all-three-characters|
 |87|best-time-to-buy-and-sell-stock|https://leetcode.com/problems/best-time-to-buy-and-sell-stock|
+|88|find-all-anagrams-in-a-string|https://leetcode.com/problems/find-all-anagrams-in-a-string|
