@@ -92,3 +92,4 @@ solutions on leetcode
 |87|best-time-to-buy-and-sell-stock|https://leetcode.com/problems/best-time-to-buy-and-sell-stock|
 |88|find-all-anagrams-in-a-string|https://leetcode.com/problems/find-all-anagrams-in-a-string|
 |89|contiguous-array|https://leetcode.com/problems/contiguous-array|
+|90|merge-k-sorted-lists|https://leetcode.com/problems/merge-k-sorted-lists|
