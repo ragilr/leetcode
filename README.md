@@ -94,3 +94,4 @@ solutions on leetcode
 |89|contiguous-array|https://leetcode.com/problems/contiguous-array|
 |90|merge-k-sorted-lists|https://leetcode.com/problems/merge-k-sorted-lists|
 |91|remove-duplicates-from-sorted-array-ii|https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii|
+|92|the-earliest-moment-when-everyone-become-friends|https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends|
