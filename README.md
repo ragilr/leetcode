@@ -96,3 +96,5 @@ solutions on leetcode
 |91|remove-duplicates-from-sorted-array-ii|https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii|
 |92|the-earliest-moment-when-everyone-become-friends|https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends|
 |93|find-the-difference|https://leetcode.com/problems/find-the-difference|
+|94|k-diff-pairs-in-an-array|https://leetcode.com/problems/k-diff-pairs-in-an-array|
+|95|permutation-in-string|https://leetcode.com/problems/permutation-in-string|
