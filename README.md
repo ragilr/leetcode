@@ -98,3 +98,4 @@ solutions on leetcode
 |93|find-the-difference|https://leetcode.com/problems/find-the-difference|
 |94|k-diff-pairs-in-an-array|https://leetcode.com/problems/k-diff-pairs-in-an-array|
 |95|permutation-in-string|https://leetcode.com/problems/permutation-in-string|
+|96|word-ladder|https://leetcode.com/problems/word-ladder|
