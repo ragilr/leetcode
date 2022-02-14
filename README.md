@@ -100,3 +100,4 @@ solutions on leetcode
 |95|permutation-in-string|https://leetcode.com/problems/permutation-in-string|
 |96|word-ladder|https://leetcode.com/problems/word-ladder|
 |97|subsets|https://leetcode.com/problems/subsets|
+|98|maximum-depth-of-binary-tree|https://leetcode.com/problems/maximum-depth-of-binary-tree|
