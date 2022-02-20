@@ -101,3 +101,5 @@ solutions on leetcode
 |96|word-ladder|https://leetcode.com/problems/word-ladder|
 |97|subsets|https://leetcode.com/problems/subsets|
 |98|maximum-depth-of-binary-tree|https://leetcode.com/problems/maximum-depth-of-binary-tree|
+|99|swap-nodes-in-pairs|https://leetcode.com/problems/swap-nodes-in-pairs|
+|100|remove-covered-intervals|https://leetcode.com/problems/remove-covered-intervals|
