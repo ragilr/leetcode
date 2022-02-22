@@ -104,3 +104,4 @@ solutions on leetcode
 |99|swap-nodes-in-pairs|https://leetcode.com/problems/swap-nodes-in-pairs|
 |100|remove-covered-intervals|https://leetcode.com/problems/remove-covered-intervals|
 |101|majority-element|https://leetcode.com/problems/majority-element|
+|102|fixed-point|https://leetcode.com/problems/fixed-point|
