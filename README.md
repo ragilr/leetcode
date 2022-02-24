@@ -106,3 +106,4 @@ solutions on leetcode
 |101|majority-element|https://leetcode.com/problems/majority-element|
 |102|fixed-point|https://leetcode.com/problems/fixed-point|
 |103|clone-graph|https://leetcode.com/problems/clone-graph|
+|104|sort-list|https://leetcode.com/problems/sort-list|
