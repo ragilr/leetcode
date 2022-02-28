@@ -108,3 +108,4 @@ solutions on leetcode
 |103|clone-graph|https://leetcode.com/problems/clone-graph|
 |104|sort-list|https://leetcode.com/problems/sort-list|
 |105|maximum-width-of-binary-tree|https://leetcode.com/problems/maximum-width-of-binary-tree|
+|106|summary-ranges|https://leetcode.com/problems/summary-ranges|
