@@ -39,4 +39,3 @@ class Solution:
             b=b.next
         return head
             
-        
