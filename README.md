@@ -97,7 +97,6 @@ solutions on leetcode
 |92|the-earliest-moment-when-everyone-become-friends|https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends|
 |93|find-the-difference|https://leetcode.com/problems/find-the-difference|
 |94|k-diff-pairs-in-an-array|https://leetcode.com/problems/k-diff-pairs-in-an-array|
-|95|permutation-in-string|https://leetcode.com/problems/permutation-in-string|
 |96|word-ladder|https://leetcode.com/problems/word-ladder|
 |97|subsets|https://leetcode.com/problems/subsets|
 |98|maximum-depth-of-binary-tree|https://leetcode.com/problems/maximum-depth-of-binary-tree|
@@ -110,3 +109,5 @@ solutions on leetcode
 |105|maximum-width-of-binary-tree|https://leetcode.com/problems/maximum-width-of-binary-tree|
 |106|summary-ranges|https://leetcode.com/problems/summary-ranges|
 |107|counting-bits|https://leetcode.com/problems/counting-bits|
+|108|linked-list-cycle|https://leetcode.com/problems/linked-list-cycle|
+|109|merge-two-sorted-lists|https://leetcode.com/problems/merge-two-sorted-lists|
