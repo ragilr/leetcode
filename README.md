@@ -113,3 +113,4 @@ solutions on leetcode
 |109|merge-two-sorted-lists|https://leetcode.com/problems/merge-two-sorted-lists|
 |110|remove-duplicates-from-sorted-list-ii|https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii|
 |111|add-two-numbers|https://leetcode.com/problems/add-two-numbers|
+|112|valid-parentheses|https://leetcode.com/problems/valid-parentheses|
