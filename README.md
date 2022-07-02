@@ -115,3 +115,4 @@ solutions on leetcode
 |111|add-two-numbers|https://leetcode.com/problems/add-two-numbers|
 |112|valid-parentheses|https://leetcode.com/problems/valid-parentheses|
 |113|maximum-units-on-a-truck|https://leetcode.com/problems/maximum-units-on-a-truck|
+|114|merge-sorted-array|https://leetcode.com/problems/merge-sorted-array|
