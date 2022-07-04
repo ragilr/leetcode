@@ -117,3 +117,5 @@ solutions on leetcode
 |113|maximum-units-on-a-truck|https://leetcode.com/problems/maximum-units-on-a-truck|
 |114|merge-sorted-array|https://leetcode.com/problems/merge-sorted-array|
 |115|concatenation-of-array|https://leetcode.com/problems/concatenation-of-array|
+|116|build-array-from-permutation|https://leetcode.com/problems/build-array-from-permutation|
+|117|binary-search|https://leetcode.com/problems/binary-search|
