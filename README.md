@@ -116,3 +116,4 @@ solutions on leetcode
 |112|valid-parentheses|https://leetcode.com/problems/valid-parentheses|
 |113|maximum-units-on-a-truck|https://leetcode.com/problems/maximum-units-on-a-truck|
 |114|merge-sorted-array|https://leetcode.com/problems/merge-sorted-array|
+|115|concatenation-of-array|https://leetcode.com/problems/concatenation-of-array|
