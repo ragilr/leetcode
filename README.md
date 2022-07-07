@@ -121,3 +121,4 @@ solutions on leetcode
 |117|binary-search|https://leetcode.com/problems/binary-search|
 |118|remove-element|https://leetcode.com/problems/remove-element|
 |119|fibonacci-number|https://leetcode.com/problems/fibonacci-number|
+|120|find-pivot-index|https://leetcode.com/problems/find-pivot-index|
