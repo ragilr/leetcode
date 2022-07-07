@@ -125,3 +125,4 @@ solutions on leetcode
 |121|isomorphic-strings||https://leetcode.com/problems/isomorphic-strings|
 |122|reverse-words-in-a-string-iii|https://leetcode.com/problems/reverse-words-in-a-string-iii|
 |123|middle-of-the-linked-list|https://leetcode.com/problems/middle-of-the-linked-list|
+|124|longest-substring-without-repeating-characters|https://leetcode.com/problems/longest-substring-without-repeating-characters|
