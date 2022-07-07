@@ -124,3 +124,4 @@ solutions on leetcode
 |120|find-pivot-index|https://leetcode.com/problems/find-pivot-index|
 |121|isomorphic-strings||https://leetcode.com/problems/isomorphic-strings|
 |122|reverse-words-in-a-string-iii|https://leetcode.com/problems/reverse-words-in-a-string-iii|
+|123|middle-of-the-linked-list|https://leetcode.com/problems/middle-of-the-linked-list|
