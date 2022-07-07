@@ -122,3 +122,4 @@ solutions on leetcode
 |118|remove-element|https://leetcode.com/problems/remove-element|
 |119|fibonacci-number|https://leetcode.com/problems/fibonacci-number|
 |120|find-pivot-index|https://leetcode.com/problems/find-pivot-index|
+|121|isomorphic-strings||https://leetcode.com/problems/isomorphic-strings|
