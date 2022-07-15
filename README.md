@@ -132,3 +132,4 @@ solutions on leetcode
 |128|maximum-erasure-value|https://leetcode.com/problems/maximum-erasure-value|
 |129|maximum-average-subarray-i|https://leetcode.com/problems/maximum-average-subarray-i|
 |130|subarray-product-less-than-k|https://leetcode.com/problems/subarray-product-less-than-k|
+|131|longest-palindrome|https://leetcode.com/problems/longest-palindrome|
