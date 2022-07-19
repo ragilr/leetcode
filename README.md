@@ -135,3 +135,4 @@ solutions on leetcode
 |131|longest-palindrome|https://leetcode.com/problems/longest-palindrome|
 |132|flood-fill|https://leetcode.com/problems/flood-fill|
 |133|grumpy-bookstore-owner|https://leetcode.com/problems/grumpy-bookstore-owner|
+|134|fruit-into-baskets|https://leetcode.com/problems/fruit-into-baskets|
