@@ -136,3 +136,4 @@ solutions on leetcode
 |132|flood-fill|https://leetcode.com/problems/flood-fill|
 |133|grumpy-bookstore-owner|https://leetcode.com/problems/grumpy-bookstore-owner|
 |134|fruit-into-baskets|https://leetcode.com/problems/fruit-into-baskets|
+|135|custom-sort-string|https://leetcode.com/problems/custom-sort-string|
