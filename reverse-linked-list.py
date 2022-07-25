@@ -19,3 +19,14 @@ class Solution:
         prev = self.reverse(node.next)
         prev.next = node
         return node
+
+    #iterative
+    def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        prev = None
+        node = head
+        while node:
+            temp = node.next
+            node.next = prev
+            prev = node
+            node = temp
+        return prev
