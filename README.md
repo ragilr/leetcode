@@ -140,3 +140,5 @@ solutions on leetcode
 |136|delete-node-in-a-linked-list|https://leetcode.com/problems/delete-node-in-a-linked-list|
 |137|palindrome-linked-list|https://leetcode.com/problems/palindrome-linked-list|
 |138|odd-even-linked-list|https://leetcode.com/problems/odd-even-linked-list|
+|139|reverse-nodes-in-k-group|https://leetcode.com/problems/reverse-nodes-in-k-group|
+|140|basic-calculator-ii|https://leetcode.com/problems/basic-calculator-ii|
