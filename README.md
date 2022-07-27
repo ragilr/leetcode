@@ -143,3 +143,4 @@ solutions on leetcode
 |139|reverse-nodes-in-k-group|https://leetcode.com/problems/reverse-nodes-in-k-group|
 |140|basic-calculator-ii|https://leetcode.com/problems/basic-calculator-ii|
 |141|min-stack|https://leetcode.com/problems/min-stack|
+|142|minimum-remove-to-make-valid-parentheses|https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses|
