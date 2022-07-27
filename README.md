@@ -142,3 +142,4 @@ solutions on leetcode
 |138|odd-even-linked-list|https://leetcode.com/problems/odd-even-linked-list|
 |139|reverse-nodes-in-k-group|https://leetcode.com/problems/reverse-nodes-in-k-group|
 |140|basic-calculator-ii|https://leetcode.com/problems/basic-calculator-ii|
+|141|min-stack|https://leetcode.com/problems/min-stack|
