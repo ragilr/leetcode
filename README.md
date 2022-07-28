@@ -145,3 +145,4 @@ solutions on leetcode
 |141|min-stack|https://leetcode.com/problems/min-stack|
 |142|minimum-remove-to-make-valid-parentheses|https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses|
 |143|decode-string|https://leetcode.com/problems/decode-string|
+|144|daily-temperatures|https://leetcode.com/problems/daily-temperatures|
