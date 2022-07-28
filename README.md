@@ -144,3 +144,4 @@ solutions on leetcode
 |140|basic-calculator-ii|https://leetcode.com/problems/basic-calculator-ii|
 |141|min-stack|https://leetcode.com/problems/min-stack|
 |142|minimum-remove-to-make-valid-parentheses|https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses|
+|143|decode-string|https://leetcode.com/problems/decode-string|
