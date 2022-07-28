@@ -148,3 +148,4 @@ solutions on leetcode
 |144|daily-temperatures|https://leetcode.com/problems/daily-temperatures|
 |145|evaluate-reverse-polish-notation|https://leetcode.com/problems/evaluate-reverse-polish-notation|
 |146|largest-rectangle-in-histogram|https://leetcode.com/problems/largest-rectangle-in-histogram|
+|147|max-stack|https://leetcode.com/problems/max-stack|
