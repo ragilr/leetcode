@@ -146,3 +146,4 @@ solutions on leetcode
 |142|minimum-remove-to-make-valid-parentheses|https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses|
 |143|decode-string|https://leetcode.com/problems/decode-string|
 |144|daily-temperatures|https://leetcode.com/problems/daily-temperatures|
+|145|evaluate-reverse-polish-notation|https://leetcode.com/problems/evaluate-reverse-polish-notation|
