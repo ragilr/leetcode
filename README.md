@@ -153,3 +153,4 @@ solutions on leetcode
 |149|moving-average-from-data-stream|https://leetcode.com/problems/moving-average-from-data-stream|
 |150|design-hit-counter|https://leetcode.com/problems/design-hit-counter|
 |151|sliding-window-maximum|https://leetcode.com/problems/sliding-window-maximum|
+|152|sort-an-array|https://leetcode.com/problems/sort-an-array|
