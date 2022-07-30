@@ -150,3 +150,4 @@ solutions on leetcode
 |146|largest-rectangle-in-histogram|https://leetcode.com/problems/largest-rectangle-in-histogram|
 |147|max-stack|https://leetcode.com/problems/max-stack|
 |148|first-unique-character-in-a-string|https://leetcode.com/problems/first-unique-character-in-a-string|
+|149|moving-average-from-data-stream|https://leetcode.com/problems/moving-average-from-data-stream|
