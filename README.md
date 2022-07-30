@@ -152,3 +152,4 @@ solutions on leetcode
 |148|first-unique-character-in-a-string|https://leetcode.com/problems/first-unique-character-in-a-string|
 |149|moving-average-from-data-stream|https://leetcode.com/problems/moving-average-from-data-stream|
 |150|design-hit-counter|https://leetcode.com/problems/design-hit-counter|
+|151|sliding-window-maximum|https://leetcode.com/problems/sliding-window-maximum|
