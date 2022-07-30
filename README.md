@@ -151,3 +151,4 @@ solutions on leetcode
 |147|max-stack|https://leetcode.com/problems/max-stack|
 |148|first-unique-character-in-a-string|https://leetcode.com/problems/first-unique-character-in-a-string|
 |149|moving-average-from-data-stream|https://leetcode.com/problems/moving-average-from-data-stream|
+|150|design-hit-counter|https://leetcode.com/problems/design-hit-counter|
