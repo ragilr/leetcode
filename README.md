@@ -149,3 +149,4 @@ solutions on leetcode
 |145|evaluate-reverse-polish-notation|https://leetcode.com/problems/evaluate-reverse-polish-notation|
 |146|largest-rectangle-in-histogram|https://leetcode.com/problems/largest-rectangle-in-histogram|
 |147|max-stack|https://leetcode.com/problems/max-stack|
+|148|first-unique-character-in-a-string|https://leetcode.com/problems/first-unique-character-in-a-string|
