@@ -156,3 +156,5 @@ solutions on leetcode
 |152|sort-an-array|https://leetcode.com/problems/sort-an-array|
 |153|number-of-1-bits|https://leetcode.com/problems/number-of-1-bits|
 |154|search-a-2d-matrix-ii|https://leetcode.com/problems/search-a-2d-matrix-ii|
+|155|kth-largest-element-in-an-array|https://leetcode.com/problems/kth-largest-element-in-an-array|
+|156|top-k-frequent-elements|https://leetcode.com/problems/top-k-frequent-elements|
