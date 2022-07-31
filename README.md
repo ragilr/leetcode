@@ -154,3 +154,5 @@ solutions on leetcode
 |150|design-hit-counter|https://leetcode.com/problems/design-hit-counter|
 |151|sliding-window-maximum|https://leetcode.com/problems/sliding-window-maximum|
 |152|sort-an-array|https://leetcode.com/problems/sort-an-array|
+|153|number-of-1-bits|https://leetcode.com/problems/number-of-1-bits|
+|154|search-a-2d-matrix-ii|https://leetcode.com/problems/search-a-2d-matrix-ii|
