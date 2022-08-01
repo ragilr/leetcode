@@ -159,3 +159,5 @@ solutions on leetcode
 |155|kth-largest-element-in-an-array|https://leetcode.com/problems/kth-largest-element-in-an-array|
 |156|top-k-frequent-elements|https://leetcode.com/problems/top-k-frequent-elements|
 |157|minimum-add-to-make-parentheses-valid|https://leetcode.com/problems/minimum-add-to-make-parentheses-valid|
+|158|largest-number|https://leetcode.com/problems/largest-number|
+|159|gas-station|https://leetcode.com/problems/gas-station|
