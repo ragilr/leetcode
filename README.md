@@ -166,3 +166,5 @@ solutions on leetcode
 |162|container-with-most-water|https://leetcode.com/problems/container-with-most-water|
 |163|number-of-islands|https://leetcode.com/problems/number-of-islands|
 |164|symmetric-tree|https://leetcode.com/problems/symmetric-tree|
+|165|course-schedule|https://leetcode.com/problems/course-schedule|
+|166|course-schedule-ii|https://leetcode.com/problems/course-schedule-ii|
