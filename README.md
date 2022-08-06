@@ -168,3 +168,4 @@ solutions on leetcode
 |164|symmetric-tree|https://leetcode.com/problems/symmetric-tree|
 |165|course-schedule|https://leetcode.com/problems/course-schedule|
 |166|course-schedule-ii|https://leetcode.com/problems/course-schedule-ii|
+|167|flatten-binary-tree-to-linked-list|https://leetcode.com/problems/flatten-binary-tree-to-linked-list|
