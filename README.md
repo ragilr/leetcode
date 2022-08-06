@@ -170,3 +170,4 @@ solutions on leetcode
 |166|course-schedule-ii|https://leetcode.com/problems/course-schedule-ii|
 |167|flatten-binary-tree-to-linked-list|https://leetcode.com/problems/flatten-binary-tree-to-linked-list|
 |168|binary-tree-level-order-traversal|https://leetcode.com/problems/binary-tree-level-order-traversal|
+|169|kth-smallest-element-in-a-bst|https://leetcode.com/problems/kth-smallest-element-in-a-bst|
