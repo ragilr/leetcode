@@ -171,3 +171,4 @@ solutions on leetcode
 |167|flatten-binary-tree-to-linked-list|https://leetcode.com/problems/flatten-binary-tree-to-linked-list|
 |168|binary-tree-level-order-traversal|https://leetcode.com/problems/binary-tree-level-order-traversal|
 |169|kth-smallest-element-in-a-bst|https://leetcode.com/problems/kth-smallest-element-in-a-bst|
+|170|unique-paths|https://leetcode.com/problems/unique-paths|
