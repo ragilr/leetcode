@@ -175,3 +175,4 @@ solutions on leetcode
 |171|count-sorted-vowel-strings|https://leetcode.com/problems/count-sorted-vowel-strings|
 |172|maximum-subarray|https://leetcode.com/problems/maximum-subarray|
 |173|populating-next-right-pointers-in-each-node|https://leetcode.com/problems/populating-next-right-pointers-in-each-node|
+|174|merge-two-binary-trees|https://leetcode.com/problems/merge-two-binary-trees|
