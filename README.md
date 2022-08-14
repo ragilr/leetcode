@@ -180,3 +180,4 @@ solutions on leetcode
 |176|rotting-oranges|https://leetcode.com/problems/rotting-oranges|
 |177|n-ary-tree-preorder-traversal|https://leetcode.com/problems/n-ary-tree-preorder-traversal|
 |178|validate-binary-search-tree|https://leetcode.com/problems/validate-binary-search-tree|
+|179|lowest-common-ancestor-of-a-binary-search-tree|https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree|
