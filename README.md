@@ -174,3 +174,4 @@ solutions on leetcode
 |170|unique-paths|https://leetcode.com/problems/unique-paths|
 |171|count-sorted-vowel-strings|https://leetcode.com/problems/count-sorted-vowel-strings|
 |172|maximum-subarray|https://leetcode.com/problems/maximum-subarray|
+|173|populating-next-right-pointers-in-each-node|https://leetcode.com/problems/populating-next-right-pointers-in-each-node|
