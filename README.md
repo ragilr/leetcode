@@ -179,3 +179,4 @@ solutions on leetcode
 |175|01-matrix|https://leetcode.com/problems/01-matrix|
 |176|rotting-oranges|https://leetcode.com/problems/rotting-oranges|
 |177|n-ary-tree-preorder-traversal|https://leetcode.com/problems/n-ary-tree-preorder-traversal|
+|178|validate-binary-search-tree|https://leetcode.com/problems/validate-binary-search-tree|
