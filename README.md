@@ -186,3 +186,4 @@ solutions on leetcode
 |182|last-stone-weight|https://leetcode.com/problems/last-stone-weight|
 |183|convert-sorted-array-to-binary-search-tree|https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree|
 |184|unique-morse-code-words|https://leetcode.com/problems/unique-morse-code-words|
+|185|print-immutable-linked-list-in-reverse|https://leetcode.com/problems/print-immutable-linked-list-in-reverse|
