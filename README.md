@@ -193,3 +193,4 @@ solutions on leetcode
 |189|greatest-common-divisor-of-strings|https://leetcode.com/problems/greatest-common-divisor-of-strings|
 |190|duplicate-zeros|https://leetcode.com/problems/duplicate-zeros|
 |191|check-if-n-and-its-double-exist|https://leetcode.com/problems/check-if-n-and-its-double-exist|
+|192|valid-mountain-array|https://leetcode.com/problems/valid-mountain-array|
