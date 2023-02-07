@@ -194,3 +194,4 @@ solutions on leetcode
 |190|duplicate-zeros|https://leetcode.com/problems/duplicate-zeros|
 |191|check-if-n-and-its-double-exist|https://leetcode.com/problems/check-if-n-and-its-double-exist|
 |192|valid-mountain-array|https://leetcode.com/problems/valid-mountain-array|
+|193|replace-elements-with-greatest-element-on-right-side|https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side|
