@@ -9,34 +9,28 @@ from collections import deque
 
 class Solution:
     def zigzagLevelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+        visited = set()
+        q = deque()
+        ret = []
         def bfs():
-            level = 0
-            visited = set()
-            q = deque()
-            q.append((root, level))
-            visited.add(root)
-            ret = []
+            if root == None:
+                return ret
+            q.append(root)
+            zigzag = False
             while q:
                 l = []
                 size = len(q)
                 for i in range(size):
-                    s = q.popleft()
-                    node = s[0]
+                    node = q.popleft()
+                    tempq = []
                     l.append(node.val)
-                    if s[1] == 0:
-                        if node.left != None:
-                            q.append((node.left, 1))
-                            visited.add(node.left)
-                        if node.right != None:
-                            q.append((node.right, 1))
-                            visited.add(node.right)
-                    else:
-                        if node.right != None:
-                            q.append((node.right, 0))
-                            visited.add(node.right)
-                        if node.right != None:
-                            q.append((node.left, 0))
-                            visited.add(node.right)
+                    if node.left:
+                        q.append(node.left)
+                    if node.right:
+                        q.append(node.right)
+                if zigzag:
+                    l.reverse()
                 ret.append(l)
+                zigzag = not zigzag
             return ret
         return bfs()
