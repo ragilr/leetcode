@@ -203,3 +203,4 @@ solutions on leetcode
 |199|maximum-number-of-moves-in-a-grid/solutions|https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/solutions|
 |200|remove-nodes-from-linked-list|https://leetcode.com/problems/remove-nodes-from-linked-list|
 |201|valid-palindrome|https://leetcode.com/problems/valid-palindrome|
+|202|search-a-2d-matrix|https://leetcode.com/problems/search-a-2d-matrix|
