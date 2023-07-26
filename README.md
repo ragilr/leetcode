@@ -205,3 +205,5 @@ solutions on leetcode
 |201|valid-palindrome|https://leetcode.com/problems/valid-palindrome|
 |202|search-a-2d-matrix|https://leetcode.com/problems/search-a-2d-matrix|
 |203|koko-eating-bananas|https://leetcode.com/problems/koko-eating-bananas|
+|204|find-minimum-in-rotated-sorted-array|https://leetcode.com/problems/find-minimum-in-rotated-sorted-array|
+|205|time-based-key-value-store|https://leetcode.com/problems/time-based-key-value-store|
