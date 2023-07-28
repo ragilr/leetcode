@@ -207,3 +207,4 @@ solutions on leetcode
 |203|koko-eating-bananas|https://leetcode.com/problems/koko-eating-bananas|
 |204|find-minimum-in-rotated-sorted-array|https://leetcode.com/problems/find-minimum-in-rotated-sorted-array|
 |205|time-based-key-value-store|https://leetcode.com/problems/time-based-key-value-store|
+|206|rank-teams-by-votes|https://leetcode.com/problems/rank-teams-by-votes|
