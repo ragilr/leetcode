@@ -213,3 +213,4 @@ solutions on leetcode
 |209|design-a-stack-with-increment-operation|https://leetcode.com/problems/design-a-stack-with-increment-operation|
 |210|finding-the-users-active-minutes|https://leetcode.com/problems/finding-the-users-active-minutes|
 |211|maximum-number-of-occurrences-of-a-substring|https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring|
+|212|lru-cache|https://leetcode.com/problems/lru-cache|
