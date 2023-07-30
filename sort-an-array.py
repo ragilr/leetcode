@@ -44,7 +44,7 @@ class Solution:
                 if arr[j]<=pivot:
                     i=i+1
                     arr[i],arr[j]=arr[j],arr[i]
-                arr[i+1],arr[pivot_index]=arr[pivot_index],arr[i+1]
+            arr[i+1],arr[pivot_index]=arr[pivot_index],arr[i+1]
             return i+1
         
         def quickSort(l,h,arr):
