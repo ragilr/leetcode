@@ -27,7 +27,6 @@ class Solution:
                 ret.append(rsorted[r])
                 r+=1
             return ret
-        return mergeSort(nums)
 
         def partition(l,h,arr):
             pivot_index = h
@@ -37,18 +36,18 @@ class Solution:
                 if arr[j]<=pivot:
                     i=i+1
                     arr[i],arr[j]=arr[j],arr[i]
-                arr[i+1],arr[pivot_index]=arr[pivot_index],arr[i+1]
+            arr[i+1],arr[pivot_index]=arr[pivot_index],arr[i+1]
             return i+1
         
         def quickSort(l,h,arr):
             if l>=h:
                 return
             pi = partition(l,h,arr)
-            quicksort(l,pi-1,arr)
-            quicksort(pi+1,h,arr)
+            quickSort(l,pi-1,arr)
+            quickSort(pi+1,h,arr)
         
         #quicksort
-        quicksort(0,len(nums)-1,nums)
+        quickSort(0,len(nums)-1,nums)
         return nums
 
         #mergesort
