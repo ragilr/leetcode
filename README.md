@@ -214,3 +214,4 @@ solutions on leetcode
 |210|finding-the-users-active-minutes|https://leetcode.com/problems/finding-the-users-active-minutes|
 |211|maximum-number-of-occurrences-of-a-substring|https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring|
 |212|lru-cache|https://leetcode.com/problems/lru-cache|
+|213|combinations|https://leetcode.com/problems/combinations|
