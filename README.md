@@ -224,3 +224,4 @@ solutions on leetcode
 |220|subtree-of-another-tree|https://leetcode.com/problems/subtree-of-another-tree|
 |221|count-good-nodes-in-binary-tree|https://leetcode.com/problems/count-good-nodes-in-binary-tree|
 |222|kth-smallest-element-in-a-bst|https://leetcode.com/problems/kth-smallest-element-in-a-bst|
+|223|construct-binary-tree-from-preorder-and-inorder-traversal|https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal|
