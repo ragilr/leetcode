@@ -226,3 +226,5 @@ solutions on leetcode
 |222|kth-smallest-element-in-a-bst|https://leetcode.com/problems/kth-smallest-element-in-a-bst|
 |223|construct-binary-tree-from-preorder-and-inorder-traversal|https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal|
 |224|kth-largest-element-in-a-stream|https://leetcode.com/problems/kth-largest-element-in-a-stream|
+|225|k-closest-points-to-origin|https://leetcode.com/problems/k-closest-points-to-origin|
+|226|brick-wall|https://leetcode.com/problems/brick-wall|
