@@ -26,4 +26,15 @@ class Solution:
                 l=p
             if p-l >m:
                 m=p-l
-        return m
+        return 
+
+    def maxProfit(self,prices: list) -> int:
+        profits = -1
+        mx = float('-inf')
+        i = len(prices)-1
+        while i>-1:
+            if mx < prices[i]:
+                mx = prices[i]
+            profits = max(mx-prices[i],profits)
+            i-=1
+        return profits    
