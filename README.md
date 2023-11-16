@@ -229,3 +229,4 @@ solutions on leetcode
 |225|k-closest-points-to-origin|https://leetcode.com/problems/k-closest-points-to-origin|
 |226|brick-wall|https://leetcode.com/problems/brick-wall|
 |227|best-time-to-buy-and-sell-stock-ii|https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii|
+|228|longest-common-prefix|https://leetcode.com/problems/longest-common-prefix|
