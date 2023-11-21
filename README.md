@@ -231,3 +231,4 @@ solutions on leetcode
 |227|best-time-to-buy-and-sell-stock-ii|https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii|
 |228|longest-common-prefix|https://leetcode.com/problems/longest-common-prefix|
 |229|unique-length-3-palindromic-subsequences|https://leetcode.com/problems/unique-length-3-palindromic-subsequences|
+|230|minimum-number-of-swaps-to-make-the-string-balanced|https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced|
