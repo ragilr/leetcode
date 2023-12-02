@@ -232,3 +232,6 @@ solutions on leetcode
 |228|longest-common-prefix|https://leetcode.com/problems/longest-common-prefix|
 |229|unique-length-3-palindromic-subsequences|https://leetcode.com/problems/unique-length-3-palindromic-subsequences|
 |230|minimum-number-of-swaps-to-make-the-string-balanced|https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced|
+|231|number-of-pairs-of-interchangeable-rectangles|https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles|
+|232|maximum-product-of-the-length-of-two-palindromic-subsequences|https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences|
+|233|grid-game|https://leetcode.com/problems/grid-game|
