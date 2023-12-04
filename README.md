@@ -237,3 +237,4 @@ solutions on leetcode
 |233|grid-game|https://leetcode.com/problems/grid-game|
 |234|find-words-that-can-be-formed-by-characters|https://leetcode.com/problems/find-words-that-can-be-formed-by-characters|
 |235|continuous-subarray-sum|https://leetcode.com/problems/continuous-subarray-sum|
+|236|repeated-dna-sequences|https://leetcode.com/problems/repeated-dna-sequences|
