@@ -10,6 +10,3 @@ class Solution:
             ret += count
         return ret
             
-
-
-        

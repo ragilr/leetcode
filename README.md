@@ -241,3 +241,4 @@ solutions on leetcode
 |237|push-dominoes|https://leetcode.com/problems/push-dominoes|
 |238|check-if-a-string-contains-all-binary-codes-of-size-k|https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k|
 |239|number-of-zero-filled-subarrays|https://leetcode.com/problems/number-of-zero-filled-subarrays|
+|240|design-parking-system|https://leetcode.com/problems/design-parking-system|
