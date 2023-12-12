@@ -243,3 +243,4 @@ solutions on leetcode
 |239|number-of-zero-filled-subarrays|https://leetcode.com/problems/number-of-zero-filled-subarrays|
 |240|design-parking-system|https://leetcode.com/problems/design-parking-system|
 |241|non-decreasing-array|https://leetcode.com/problems/non-decreasing-array|
+|242|range-sum-query-2d-immutable|https://leetcode.com/problems/range-sum-query-2d-immutable|
