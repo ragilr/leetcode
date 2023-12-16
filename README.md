@@ -246,3 +246,4 @@ solutions on leetcode
 |242|range-sum-query-2d-immutable|https://leetcode.com/problems/range-sum-query-2d-immutable|
 |243|optimal-partition-of-string|https://leetcode.com/problems/optimal-partition-of-string|
 |244|design-underground-system|https://leetcode.com/problems/design-underground-system|
+|245|minimum-penalty-for-a-shop|https://leetcode.com/problems/minimum-penalty-for-a-shop|
