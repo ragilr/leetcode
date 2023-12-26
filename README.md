@@ -247,3 +247,4 @@ solutions on leetcode
 |243|optimal-partition-of-string|https://leetcode.com/problems/optimal-partition-of-string|
 |244|design-underground-system|https://leetcode.com/problems/design-underground-system|
 |245|minimum-penalty-for-a-shop|https://leetcode.com/problems/minimum-penalty-for-a-shop|
+|246|number-of-dice-rolls-with-target-sum|https://leetcode.com/problems/number-of-dice-rolls-with-target-sum|
