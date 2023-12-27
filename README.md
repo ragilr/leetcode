@@ -248,3 +248,4 @@ solutions on leetcode
 |244|design-underground-system|https://leetcode.com/problems/design-underground-system|
 |245|minimum-penalty-for-a-shop|https://leetcode.com/problems/minimum-penalty-for-a-shop|
 |246|number-of-dice-rolls-with-target-sum|https://leetcode.com/problems/number-of-dice-rolls-with-target-sum|
+|247|minimum-time-to-make-rope-colorful|https://leetcode.com/problems/minimum-time-to-make-rope-colorful|
