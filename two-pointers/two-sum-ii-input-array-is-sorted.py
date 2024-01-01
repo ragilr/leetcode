@@ -6,7 +6,7 @@ class Solution:
         # print(s,e,sum)
         while(s<=e):
             sum = numbers[s]+numbers[e]
-            if(target==numbers[s]+numbers[e]):
+            if(target==sum):
                 return[s+1,e+1]
             elif(target<sum):
                 e-=1
