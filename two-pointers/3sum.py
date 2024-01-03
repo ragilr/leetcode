@@ -62,3 +62,45 @@ class Solution:
             d[n]=1
         # print(target,ans)
         return ans
+
+
+#Self second time
+class Solution:
+    def threeSum(self, nums: List[int]) -> List[List[int]]:
+        ret = []
+        nums.sort()
+        i=0
+        # print(nums)
+        def twoSum(target,l,h):
+            c = []
+            while l<h:
+                curr = nums[l]+nums[h]
+                # print('hello',target,l,h,nums[l],nums[h])
+                if curr==target:
+                    c.append([-target,nums[l],nums[h]])
+                    while l+1< len(nums) and nums[l]==nums[l+1]:
+                        l+=1
+                    l+=1
+                elif curr<target:
+                    l+=1
+                else:
+                    h-=1
+            # print(c)
+            return c
+
+        while i < len(nums)-2:
+            # print('hi',i,nums[i],-nums[i])
+            c = twoSum(-nums[i],i+1,len(nums)-1)
+            if len(c)>0:
+                # print("returned",ret,c)
+                ret.extend(c)
+                # print(ret,c)
+            while i+1<len(nums) and nums[i]==nums[i+1]:
+                i+=1
+            i+=1
+        return ret
+
+
+        
+
+            
