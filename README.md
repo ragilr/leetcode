@@ -98,7 +98,7 @@ solutions on leetcode
 |93|find-the-difference|https://leetcode.com/problems/find-the-difference|
 |94|k-diff-pairs-in-an-array|https://leetcode.com/problems/k-diff-pairs-in-an-array|
 |96|word-ladder|https://leetcode.com/problems/word-ladder|
-|97|subsets|https://leetcode.com/problems/subsets|
+|97|subsets|https://leetcode.com/problems/subsets|https://leetcode.com/problems/longest-increasing-subsequence
 |98|maximum-depth-of-binary-tree|https://leetcode.com/problems/maximum-depth-of-binary-tree|
 |99|swap-nodes-in-pairs|https://leetcode.com/problems/swap-nodes-in-pairs|
 |100|remove-covered-intervals|https://leetcode.com/problems/remove-covered-intervals|
@@ -123,7 +123,7 @@ solutions on leetcode
 |119|fibonacci-number|https://leetcode.com/problems/fibonacci-number|
 |120|find-pivot-index|https://leetcode.com/problems/find-pivot-index|
 |121|isomorphic-strings||https://leetcode.com/problems/isomorphic-strings|
-|122|reverse-words-in-a-string-iii|https://leetcode.com/problems/reverse-words-in-a-string-iii|
+|122|reverse-words-in-a-string-iii|https://leetcode.com/problems/reverse-words-in-a-string-ihttps://leetcode.com/problems/longest-increasing-subsequenceii|
 |123|middle-of-the-linked-list|https://leetcode.com/problems/middle-of-the-linked-list|
 |124|longest-substring-without-repeating-characters|https://leetcode.com/problems/longest-substring-without-repeating-characters|
 |125|reverse-linked-list|https://leetcode.com/problems/reverse-linked-list/|
@@ -249,3 +249,4 @@ solutions on leetcode
 |245|minimum-penalty-for-a-shop|https://leetcode.com/problems/minimum-penalty-for-a-shop|
 |246|number-of-dice-rolls-with-target-sum|https://leetcode.com/problems/number-of-dice-rolls-with-target-sum|
 |247|minimum-time-to-make-rope-colorful|https://leetcode.com/problems/minimum-time-to-make-rope-colorful|
+|248|longest-increasing-subsequence|https://leetcode.com/problems/longest-increasing-subsequence|
