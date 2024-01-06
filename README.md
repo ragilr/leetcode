@@ -250,3 +250,4 @@ solutions on leetcode
 |246|number-of-dice-rolls-with-target-sum|https://leetcode.com/problems/number-of-dice-rolls-with-target-sum|
 |247|minimum-time-to-make-rope-colorful|https://leetcode.com/problems/minimum-time-to-make-rope-colorful|
 |248|longest-increasing-subsequence|https://leetcode.com/problems/longest-increasing-subsequence|
+|249|maximum-profit-in-job-scheduling|https://leetcode.com/problems/maximum-profit-in-job-scheduling|
