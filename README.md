@@ -252,3 +252,4 @@ solutions on leetcode
 |248|longest-increasing-subsequence|https://leetcode.com/problems/longest-increasing-subsequence|
 |249|maximum-profit-in-job-scheduling|https://leetcode.com/problems/maximum-profit-in-job-scheduling|
 |250|array-with-elements-not-equal-to-average-of-neighbors|https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors|
+|251|boats-to-save-people|https://leetcode.com/problems/boats-to-save-people|
