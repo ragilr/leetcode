@@ -253,3 +253,4 @@ solutions on leetcode
 |249|maximum-profit-in-job-scheduling|https://leetcode.com/problems/maximum-profit-in-job-scheduling|
 |250|array-with-elements-not-equal-to-average-of-neighbors|https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors|
 |251|boats-to-save-people|https://leetcode.com/problems/boats-to-save-people|
+|252|number-of-subsequences-that-satisfy-the-given-sum-condition|https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition|
