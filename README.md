@@ -251,3 +251,4 @@ solutions on leetcode
 |247|minimum-time-to-make-rope-colorful|https://leetcode.com/problems/minimum-time-to-make-rope-colorful|
 |248|longest-increasing-subsequence|https://leetcode.com/problems/longest-increasing-subsequence|
 |249|maximum-profit-in-job-scheduling|https://leetcode.com/problems/maximum-profit-in-job-scheduling|
+|250|array-with-elements-not-equal-to-average-of-neighbors|https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors|
