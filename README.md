@@ -255,3 +255,4 @@ solutions on leetcode
 |251|boats-to-save-people|https://leetcode.com/problems/boats-to-save-people|
 |252|number-of-subsequences-that-satisfy-the-given-sum-condition|https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition|
 |253|rotate-array|https://leetcode.com/problems/rotate-array|
+|254|trapping-rain-water|https://leetcode.com/problems/trapping-rain-water|
