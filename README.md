@@ -258,3 +258,4 @@ solutions on leetcode
 |254|trapping-rain-water|https://leetcode.com/problems/trapping-rain-water|
 |255|removing-stars-from-a-string|https://leetcode.com/problems/removing-stars-from-a-string|
 |256|validate-stack-sequences|https://leetcode.com/problems/validate-stack-sequences|
+|257|generate-parentheses|https://leetcode.com/problems/generate-parentheses|
