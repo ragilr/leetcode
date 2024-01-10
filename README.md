@@ -261,3 +261,4 @@ solutions on leetcode
 |257|generate-parentheses|https://leetcode.com/problems/generate-parentheses|
 |258|asteroid-collision|https://leetcode.com/problems/asteroid-collision|
 |259|online-stock-span|https://leetcode.com/problems/online-stock-span|
+|260|simplify-path|https://leetcode.com/problems/simplify-path|
