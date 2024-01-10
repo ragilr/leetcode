@@ -260,3 +260,4 @@ solutions on leetcode
 |256|validate-stack-sequences|https://leetcode.com/problems/validate-stack-sequences|
 |257|generate-parentheses|https://leetcode.com/problems/generate-parentheses|
 |258|asteroid-collision|https://leetcode.com/problems/asteroid-collision|
+|259|online-stock-span|https://leetcode.com/problems/online-stock-span|
