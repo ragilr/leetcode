@@ -263,3 +263,4 @@ solutions on leetcode
 |259|online-stock-span|https://leetcode.com/problems/online-stock-span|
 |260|simplify-path|https://leetcode.com/problems/simplify-path|
 |261|remove-k-digits|https://leetcode.com/problems/remove-k-digits|
+|262|remove-all-adjacent-duplicates-in-string-ii|https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii|
