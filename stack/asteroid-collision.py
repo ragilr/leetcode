@@ -21,6 +21,3 @@ class Solution:
                 q.append(c)
             # print(a,q)
         return list(q)
-
-                
-        
