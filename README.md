@@ -265,3 +265,4 @@ solutions on leetcode
 |261|remove-k-digits|https://leetcode.com/problems/remove-k-digits|
 |262|remove-all-adjacent-duplicates-in-string-ii|https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii|
 |263|132-pattern|https://leetcode.com/problems/132-pattern|
+|||https://leetcode.com/problems/maximum-frequency-stack|
