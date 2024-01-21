@@ -267,3 +267,5 @@ solutions on leetcode
 |263|132-pattern|https://leetcode.com/problems/132-pattern|
 |264|maximum-frequency-stack|https://leetcode.com/problems/maximum-frequency-stack|
 |265|longest-repeating-character-replacement|https://leetcode.com/problems/longest-repeating-character-replacement|
+|266|find-k-closest-elements|https://leetcode.com/problems/find-k-closest-elements|
+|267|frequency-of-the-most-frequent-element|https://leetcode.com/problems/frequency-of-the-most-frequent-element|
