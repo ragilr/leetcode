@@ -269,3 +269,4 @@ solutions on leetcode
 |265|longest-repeating-character-replacement|https://leetcode.com/problems/longest-repeating-character-replacement|
 |266|find-k-closest-elements|https://leetcode.com/problems/find-k-closest-elements|
 |267|frequency-of-the-most-frequent-element|https://leetcode.com/problems/frequency-of-the-most-frequent-element|
+|268|minimum-operations-to-reduce-x-to-zero|https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero|
