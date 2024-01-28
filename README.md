@@ -271,3 +271,4 @@ solutions on leetcode
 |267|frequency-of-the-most-frequent-element|https://leetcode.com/problems/frequency-of-the-most-frequent-element|
 |268|minimum-operations-to-reduce-x-to-zero|https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero|
 |269|minimum-number-of-flips-to-make-the-binary-string-alternating|https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating|
+|270|path-sum|https://leetcode.com/problems/path-sum|
