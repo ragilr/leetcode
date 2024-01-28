@@ -6,21 +6,21 @@
 #         self.right = right
 class Solution:
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-        hcached = dict()
+        # hcached = dict()
         def height(node):
             if node == None:
                 return 0
-            if node in hcached:
-                return hcached[node]
-            h = 1+max(height(node.left),helight(node.right))
-            hcached[node]=h
+            # if node in hcached:
+            #     return hcached[node]
+            l =  height(node.left)
+            r =  height(node.right)             
+            self.result = max(self.result,l+r)
+            h = 1+max(l,r)
+            # hcached[node]=h
             return h
-        m = float('-inf')
-        
-        def inorder(node):
-            if node==None:
-                return 
-            inorder(node.left)
-            inorder(node.right)
-            m = max(hl+hr,m)
-            return m            
+        height(root)
+        return self.result
+
+
+    def __init__(self):
+            self.result = float('-inf')
