@@ -272,3 +272,4 @@ solutions on leetcode
 |268|minimum-operations-to-reduce-x-to-zero|https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero|
 |269|minimum-number-of-flips-to-make-the-binary-string-alternating|https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating|
 |270|path-sum|https://leetcode.com/problems/path-sum|
+|271|construct-string-from-binary-tree|https://leetcode.com/problems/construct-string-from-binary-tree|
