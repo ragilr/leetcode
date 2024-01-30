@@ -273,3 +273,4 @@ solutions on leetcode
 |269|minimum-number-of-flips-to-make-the-binary-string-alternating|https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating|
 |270|path-sum|https://leetcode.com/problems/path-sum|
 |271|construct-string-from-binary-tree|https://leetcode.com/problems/construct-string-from-binary-tree|
+|272|binary-tree-right-side-view|https://leetcode.com/problems/binary-tree-right-side-view|
