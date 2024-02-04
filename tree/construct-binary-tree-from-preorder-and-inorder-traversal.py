@@ -19,5 +19,3 @@ class Solution:
             right = helper(idx+1,r)
             return TreeNode(val,left,right)
         return helper(0,len(inorder)-1)
-
-        
