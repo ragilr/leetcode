@@ -274,3 +274,4 @@ solutions on leetcode
 |270|path-sum|https://leetcode.com/problems/path-sum|
 |271|construct-string-from-binary-tree|https://leetcode.com/problems/construct-string-from-binary-tree|
 |272|binary-tree-right-side-view|https://leetcode.com/problems/binary-tree-right-side-view|
+|273|find-duplicate-subtrees|https://leetcode.com/problems/find-duplicate-subtrees|
