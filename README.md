@@ -276,3 +276,4 @@ solutions on leetcode
 |272|binary-tree-right-side-view|https://leetcode.com/problems/binary-tree-right-side-view|
 |273|find-duplicate-subtrees|https://leetcode.com/problems/find-duplicate-subtrees|
 |274|check-completeness-of-a-binary-tree|https://leetcode.com/problems/check-completeness-of-a-binary-tree|
+|275|construct-binary-tree-from-inorder-and-postorder-traversal|https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal|
