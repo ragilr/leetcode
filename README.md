@@ -275,3 +275,4 @@ solutions on leetcode
 |271|construct-string-from-binary-tree|https://leetcode.com/problems/construct-string-from-binary-tree|
 |272|binary-tree-right-side-view|https://leetcode.com/problems/binary-tree-right-side-view|
 |273|find-duplicate-subtrees|https://leetcode.com/problems/find-duplicate-subtrees|
+|274|check-completeness-of-a-binary-tree|https://leetcode.com/problems/check-completeness-of-a-binary-tree|
