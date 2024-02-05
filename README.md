@@ -278,3 +278,4 @@ solutions on leetcode
 |274|check-completeness-of-a-binary-tree|https://leetcode.com/problems/check-completeness-of-a-binary-tree|
 |275|construct-binary-tree-from-inorder-and-postorder-traversal|https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal|
 |276|minimum-window-substring|https://leetcode.com/problems/minimum-window-substring|
+|277|time-needed-to-inform-all-employees|https://leetcode.com/problems/time-needed-to-inform-all-employees|
