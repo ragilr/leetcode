@@ -279,3 +279,5 @@ solutions on leetcode
 |275|construct-binary-tree-from-inorder-and-postorder-traversal|https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal|
 |276|minimum-window-substring|https://leetcode.com/problems/minimum-window-substring|
 |277|time-needed-to-inform-all-employees|https://leetcode.com/problems/time-needed-to-inform-all-employees|
+|278|sum-root-to-leaf-numbers|https://leetcode.com/problems/sum-root-to-leaf-numbers|
+|279|flip-equivalent-binary-trees|https://leetcode.com/problems/flip-equivalent-binary-trees|
