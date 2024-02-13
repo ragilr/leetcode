@@ -289,3 +289,4 @@ solutions on leetcode
 |285|baseball-game|https://leetcode.com/problems/baseball-game|
 |286|unique-binary-search-trees|https://leetcode.com/problems/unique-binary-search-trees|
 |287|unique-binary-search-trees-ii|https://leetcode.com/problems/unique-binary-search-trees-ii|
+|288|delete-node-in-a-bst|https://leetcode.com/problems/delete-node-in-a-bst|
