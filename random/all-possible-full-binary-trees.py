@@ -6,10 +6,8 @@
 #         self.right = right
 class Solution:
     def allPossibleFBT(self, n: int) -> List[Optional[TreeNode]]:
-        cache = {}
+        cache = {1:[TreeNode(0)]}
         def dfs(n):
-            if n==1:
-                return [TreeNode(0)]
             if n in cache:
                 return cache[n]
             ret = []
