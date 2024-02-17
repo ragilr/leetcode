@@ -6,22 +6,19 @@
 #         self.right = right
 class Solution:
     def allPossibleFBT(self, n: int) -> List[Optional[TreeNode]]:
-
-        mem = dict()
-        def makeRoot(n):
-            # print("makeRoot",n)
-            if n == 1:
-                return [TreeNode()]
-            if n == 0:
-                return None
-            if n in mem:
-                return mem[n]
+        cache = {}
+        def dfs(n):
+            if n==1:
+                return [TreeNode(0)]
+            if n in cache:
+                return cache[n]
             ret = []
-            for i in range(1,n-1,2):
-                for left in  makeRoot(i):
-                    for right in makeRoot(n-i-1):
-                        ret.append(TreeNode(0,left,right))
-            mem[n]=ret
+            for i in range(1,n,2):
+                left = dfs(i)
+                right = dfs(n-i-1)
+                for l in left:
+                    for r in right:
+                        ret.append(TreeNode(0,l,r))
+            cache[n]=ret
             return ret
-        x=makeRoot(n)
-        return x
+        return dfs(n)        
