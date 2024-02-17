@@ -290,3 +290,4 @@ solutions on leetcode
 |286|unique-binary-search-trees|https://leetcode.com/problems/unique-binary-search-trees|
 |287|unique-binary-search-trees-ii|https://leetcode.com/problems/unique-binary-search-trees-ii|
 |288|delete-node-in-a-bst|https://leetcode.com/problems/delete-node-in-a-bst|
+|289|minimum-time-to-collect-all-apples-in-a-tree|https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree|
