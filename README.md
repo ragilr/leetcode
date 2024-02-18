@@ -292,3 +292,4 @@ solutions on leetcode
 |288|delete-node-in-a-bst|https://leetcode.com/problems/delete-node-in-a-bst|
 |289|minimum-time-to-collect-all-apples-in-a-tree|https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree|
 |290|furthest-building-you-can-reach|https://leetcode.com/problems/furthest-building-you-can-reach|
+|291|trim-a-binary-search-tree|https://leetcode.com/problems/trim-a-binary-search-tree|
