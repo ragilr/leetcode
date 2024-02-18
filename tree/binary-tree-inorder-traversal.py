@@ -26,4 +26,3 @@ class Solution:
             ret.append(node.val)
             node = node.right
         return ret
-        

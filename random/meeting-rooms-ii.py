@@ -10,4 +10,8 @@ class Solution:
                 heapq.heappop(freeRooms)            
             heapq.heappush(freeRooms, i[1])
         return len(freeRooms)
+    
+    free = []
+    # for loop to initialize the free rooms in single line
+    free[i for in range(0, len(intervals))]
         

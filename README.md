@@ -294,3 +294,5 @@ solutions on leetcode
 |290|furthest-building-you-can-reach|https://leetcode.com/problems/furthest-building-you-can-reach|
 |291|trim-a-binary-search-tree|https://leetcode.com/problems/trim-a-binary-search-tree|
 |292|house-robber-iii|https://leetcode.com/problems/house-robber-iii|
+|293|binary-tree-maximum-path-sum|https://leetcode.com/problems/binary-tree-maximum-path-sum|
+|294|serialize-and-deserialize-binary-tree|https://leetcode.com/problems/serialize-and-deserialize-binary-tree|
