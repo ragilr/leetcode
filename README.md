@@ -296,3 +296,5 @@ solutions on leetcode
 |292|house-robber-iii|https://leetcode.com/problems/house-robber-iii|
 |293|binary-tree-maximum-path-sum|https://leetcode.com/problems/binary-tree-maximum-path-sum|
 |294|serialize-and-deserialize-binary-tree|https://leetcode.com/problems/serialize-and-deserialize-binary-tree|
+|295|construct-quad-tree|https://leetcode.com/problems/construct-quad-tree|
+|296|island-perimeter|https://leetcode.com/problems/island-perimeter|
