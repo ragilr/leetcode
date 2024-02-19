@@ -298,3 +298,4 @@ solutions on leetcode
 |294|serialize-and-deserialize-binary-tree|https://leetcode.com/problems/serialize-and-deserialize-binary-tree|
 |295|construct-quad-tree|https://leetcode.com/problems/construct-quad-tree|
 |296|island-perimeter|https://leetcode.com/problems/island-perimeter|
+|297|verifying-an-alien-dictionary|https://leetcode.com/problems/verifying-an-alien-dictionary|
