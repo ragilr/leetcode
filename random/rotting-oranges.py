@@ -1,43 +1,39 @@
 class Solution:
     def orangesRotting(self, grid: List[List[int]]) -> int:
-        c = 0
-        m = len(grid)
-        n = len(grid[0])
-        fresh = 0
+        row = len(grid)
+        col = len(grid[0])
         q = deque()
-        for i in range(m):
-            for j in range(n):
+        visited = set()
+        def visitNeigh(i,j,q,visited):
+            if i-1>=0 and (i-1,j) not in visited and grid[i-1][j]==1:
+                q.append((i-1,j))
+                visited.add((i-1,j))
+            if i+1<row and (i+1,j) not in visited and grid[i+1][j]==1:
+                q.append((i+1,j))
+                visited.add((i+1,j))
+            if j-1>=0 and (i,j-1) not in visited and grid[i][j-1]==1:
+                q.append((i,j-1))
+                visited.add((i,j-1))
+            if j+1<col and (i,j+1) not in visited and  grid[i][j+1]==1:
+                q.append((i,j+1))
+                visited.add((i,j+1))
+
+        for i in range(row):
+            for j in range(col):
                 if grid[i][j]==2:
-                    q.append((i,j))
-                elif grid[i][j]==1:
-                    fresh+=1
-        minutes=0
+                    visitNeigh(i,j,q,visited)
+        time = 0
+        # print(q)
         while q:
-            c=len(q)
+            for _ in range(len(q)):
+                i,j = q.popleft()
+                grid[i][j]=2
+                visitNeigh(i,j,q,visited)
+            time+=1
             # print(q)
-            for k in range(c):
-                v=q.popleft()
-                i=v[0]
-                j=v[1]
-                if i+1<m and grid[i+1][j]==1:
-                    grid[i+1][j]=2
-                    q.append((i+1,j))
-                    fresh-=1
-                if i-1>=0 and grid[i-1][j]==1:
-                    grid[i-1][j]=2
-                    q.append((i-1,j))                    
-                    fresh-=1
-                if j+1<n and grid[i][j+1]==1:
-                    grid[i][j+1]=2
-                    q.append((i,j+1))
-                    fresh-=1
-                if j-1>=0 and grid[i][j-1]==1:
-                    grid[i][j-1]=2
-                    q.append((i,j-1))     
-                    fresh-=1
-            minutes+=1
-        if fresh==0 and minutes==0:
-            return 0
-        elif fresh==0:
-            return minutes-1
-        return -1
+
+        for i in range(row):
+            for j in range(col):
+                if grid[i][j]==1:
+                    return -1
+        return time
