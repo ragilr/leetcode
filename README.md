@@ -302,3 +302,4 @@ solutions on leetcode
 |298|count-sub-islands|https://leetcode.com/problems/count-sub-islands|
 |299|pacific-atlantic-water-flow|https://leetcode.com/problems/pacific-atlantic-water-flow|
 |300|surrounded-regions|https://leetcode.com/problems/surrounded-regions|
+|301|reorder-routes-to-make-all-paths-lead-to-the-city-zero|https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero|
