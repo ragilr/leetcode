@@ -306,3 +306,4 @@ solutions on leetcode
 |302|find-eventual-safe-states|https://leetcode.com/problems/find-eventual-safe-states|
 |303|house-robber|https://leetcode.com/problems/house-robber|
 |304|house-robber-ii|https://leetcode.com/problems/house-robber-ii|
+|305|longest-palindromic-substring|https://leetcode.com/problems/longest-palindromic-substring|
