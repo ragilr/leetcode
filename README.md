@@ -307,3 +307,4 @@ solutions on leetcode
 |303|house-robber|https://leetcode.com/problems/house-robber|
 |304|house-robber-ii|https://leetcode.com/problems/house-robber-ii|
 |305|longest-palindromic-substring|https://leetcode.com/problems/longest-palindromic-substring|
+|306|palindromic-substrings|https://leetcode.com/problems/palindromic-substrings|
