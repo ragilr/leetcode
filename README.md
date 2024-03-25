@@ -310,3 +310,4 @@ solutions on leetcode
 |306|palindromic-substrings|https://leetcode.com/problems/palindromic-substrings|
 |307|decode-ways|https://leetcode.com/problems/decode-ways|
 |308|coin-change|https://leetcode.com/problems/coin-change|
+|309|maximum-product-subarray|https://leetcode.com/problems/maximum-product-subarray|
