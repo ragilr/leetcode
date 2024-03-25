@@ -303,3 +303,5 @@ solutions on leetcode
 |299|pacific-atlantic-water-flow|https://leetcode.com/problems/pacific-atlantic-water-flow|
 |300|surrounded-regions|https://leetcode.com/problems/surrounded-regions|
 |301|reorder-routes-to-make-all-paths-lead-to-the-city-zero|https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero|
+|302|find-eventual-safe-states|https://leetcode.com/problems/find-eventual-safe-states|
+|303|house-robber|https://leetcode.com/problems/house-robber|
