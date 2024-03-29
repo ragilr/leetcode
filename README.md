@@ -311,3 +311,5 @@ solutions on leetcode
 |307|decode-ways|https://leetcode.com/problems/decode-ways|
 |308|coin-change|https://leetcode.com/problems/coin-change|
 |309|maximum-product-subarray|https://leetcode.com/problems/maximum-product-subarray|
+|310|partition-equal-subset-sum|https://leetcode.com/problems/partition-equal-subset-sum|
+|311|count-subarrays-where-max-element-appears-at-least-k-times|https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times|
