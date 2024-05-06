@@ -98,7 +98,7 @@ solutions on leetcode
 |93|find-the-difference|https://leetcode.com/problems/find-the-difference|
 |94|k-diff-pairs-in-an-array|https://leetcode.com/problems/k-diff-pairs-in-an-array|
 |96|word-ladder|https://leetcode.com/problems/word-ladder|
-|97|subsets|https://leetcode.com/problems/subsets|https://leetcode.com/problems/longest-increasing-subsequence
+|97|subsets|https://leetcode.com/problems/subsets|
 |98|maximum-depth-of-binary-tree|https://leetcode.com/problems/maximum-depth-of-binary-tree|
 |99|swap-nodes-in-pairs|https://leetcode.com/problems/swap-nodes-in-pairs|
 |100|remove-covered-intervals|https://leetcode.com/problems/remove-covered-intervals|
@@ -313,4 +313,3 @@ solutions on leetcode
 |309|maximum-product-subarray|https://leetcode.com/problems/maximum-product-subarray|
 |310|partition-equal-subset-sum|https://leetcode.com/problems/partition-equal-subset-sum|
 |311|count-subarrays-where-max-element-appears-at-least-k-times|https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times|
-|312|subsets|https://leetcode.com/problems/subsets|
